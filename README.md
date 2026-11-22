@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hej, jeg hedder Julie 👋
 
-<!--
-**JulieGarst/JulieGarst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jeg læser Softwareteknologi på Aarhus Universitet og interesserer mig for embedded systems, systemprogrammering og datastrukturer og algoritmer.
 
-Here are some ideas to get you started:
+## 📂 Projekter
+- **[Semesterprojekt – UWB gemmeleg](link)** – positionering med UWB-moduler på Raspberry Pi (C++, embedded Linux)
+- **[Systemprogrammering](link)** – udvalgte opgaver i C: processer, tråde og synkronisering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Sprog og værktøjer
+- **C / C++**
+- **Python**
+- **HTML, CSS og JavaScript**
+- **Embedded Linux** (Raspberry Pi)
+- **MATLAB**
+
+## 📫 Kontakt
+[LinkedIn](https://www.linkedin.com/in/julie-garst/)
