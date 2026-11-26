@@ -1,17 +1,20 @@
-# Hej, jeg hedder Julie 👋
+# Hi, I'm Julie 👋
 
-Jeg læser Softwareteknologi på Aarhus Universitet og interesserer mig for embedded systems, systemprogrammering og datastrukturer og algoritmer.
+I study Software Technology at Aarhus University and I'm interested in embedded systems, systems programming, and data structures and algorithms.
 
-## 📂 Projekter
-- **[Semesterprojekt – UWB gemmeleg](link)** – positionering med UWB-moduler på Raspberry Pi (C++, embedded Linux)
-- **[Systemprogrammering](link)** – udvalgte opgaver i C: processer, tråde og synkronisering
+## 📂 Projects
 
-## 🛠️ Sprog og værktøjer
+- [Semester project – UWB hide and seek](https://github.com/JulieGarst/uwb-gemmeleg) – positioning with UWB modules on Raspberry Pi (C++, embedded Linux)
+- [Space Shooter](https://github.com/JulieGarst/SYS-space-shooter) – multithreaded game on Raspberry Pi with an OLED display (C++, mutexes and condition variables)
+
+## 🛠️ Languages and tools
+
 - **C / C++**
 - **Python**
-- **HTML, CSS og JavaScript**
+- **HTML, CSS and JavaScript**
 - **Embedded Linux** (Raspberry Pi)
 - **MATLAB**
 
-## 📫 Kontakt
-[LinkedIn](https://www.linkedin.com/in/julie-garst/)
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/julie-garst)
